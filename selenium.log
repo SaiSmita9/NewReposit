@@ -1,0 +1,104 @@
+07/07/2018 17:34:41 devpinoyLogger *************** Entering login Admin with valid data **************
+07/07/2018 17:34:46 devpinoyLogger Clicked on  Admin link
+07/07/2018 17:34:46 devpinoyLogger successfully entered the value  admin
+07/07/2018 17:34:47 devpinoyLogger successfully entered the value  admin
+07/07/2018 17:34:58 devpinoyLogger Clicked on Clicking the Login button
+07/07/2018 17:34:58 devpinoyLogger *************** Read values from config file **************
+07/07/2018 17:35:03 devpinoyLogger *************** leaving login Admin**************
+07/07/2018 17:35:06 devpinoyLogger *************** Entering For More Options    **************
+07/07/2018 17:35:07 devpinoyLogger Clicked on on  More Button
+07/07/2018 17:35:07 devpinoyLogger *************** Entering For More Options    **************
+07/07/2018 17:35:13 devpinoyLogger Clicked on on  Multiple Tab menu
+07/07/2018 17:35:13 devpinoyLogger *************** Clicked on multiple tab menu    **************
+07/07/2018 17:35:14 devpinoyLogger Clicked on on Option One
+07/07/2018 17:35:14 devpinoyLogger *************** Clicked on Option one    **************
+07/07/2018 17:35:14 devpinoyLogger successfully entered the value  Sai
+07/07/2018 17:35:14 devpinoyLogger successfully entered the value  Smita
+07/07/2018 17:35:14 devpinoyLogger *************** Value entered to text boxes of Option One    **************
+07/07/2018 17:35:14 devpinoyLogger Clicked on on Option Two
+07/07/2018 17:35:14 devpinoyLogger *************** Clicked on Option Two   **************
+07/07/2018 17:35:18 devpinoyLogger successfully entered the value  Sai Rath
+07/07/2018 17:35:18 devpinoyLogger successfully entered the value  Smita Rath
+07/07/2018 17:35:18 devpinoyLogger *************** Value entered to text boxes of Clicked on Option Two    **************
+07/07/2018 17:35:18 devpinoyLogger Clicked on on Option Three
+07/07/2018 17:35:18 devpinoyLogger *************** Clicked on Option Three   **************
+07/07/2018 17:35:22 devpinoyLogger Clicked on on menu tab
+07/07/2018 17:35:22 devpinoyLogger *************** Clicked on menu tab   **************
+07/07/2018 17:35:22 devpinoyLogger Clicked on on testing option
+07/07/2018 17:35:22 devpinoyLogger *************** Clicked on testing option of SIngle Menus  **************
+07/07/2018 17:35:25 devpinoyLogger successfully read the value You Have Selected Testing Window
+07/07/2018 17:35:25 devpinoyLogger Clicked on on java option
+07/07/2018 17:35:25 devpinoyLogger *************** Clicked on java option of Single Menus  **************
+07/07/2018 17:35:28 devpinoyLogger successfully read the value You Have Selected Java Window
+07/07/2018 17:35:29 devpinoyLogger Clicked on on dot net option
+07/07/2018 17:35:29 devpinoyLogger *************** Clicked on dot net option of Single Menus  **************
+07/07/2018 17:35:32 devpinoyLogger successfully read the value You Have Selected .Net Window
+07/07/2018 17:35:32 devpinoyLogger Clicked on on data base option
+07/07/2018 17:35:32 devpinoyLogger *************** Clicked on data base option of Single Menus  **************
+07/07/2018 17:35:35 devpinoyLogger successfully read the value You Have Selected Data base Window
+07/07/2018 17:35:35 devpinoyLogger Clicked on on sub menu tab
+07/07/2018 17:35:35 devpinoyLogger *************** 1.Clicked on sub menu tab   **************
+07/07/2018 17:35:38 devpinoyLogger Clicked on on sub menu testing tab
+07/07/2018 17:35:38 devpinoyLogger *************** Clicked on testing option of sub menu tab   **************
+07/07/2018 17:35:38 devpinoyLogger Clicked on on sub menu->testing->Selenium option
+07/07/2018 17:35:42 devpinoyLogger successfully read the value 
+07/07/2018 17:35:42 devpinoyLogger Clicked on on sub menu testing tab
+07/07/2018 17:35:42 devpinoyLogger *************** Clicked on testing option of sub menu tab   **************
+07/07/2018 17:35:42 devpinoyLogger Clicked on on sub menu->testing->Manual Testing option
+07/07/2018 17:35:45 devpinoyLogger successfully read the value 
+07/07/2018 17:35:45 devpinoyLogger Clicked on on sub menu testing tab
+07/07/2018 17:35:45 devpinoyLogger *************** Clicked on testing option of sub menu tab   **************
+07/07/2018 17:35:45 devpinoyLogger Clicked on on sub menu->testing->Data Base Testing option
+07/07/2018 17:35:48 devpinoyLogger successfully read the value 
+07/07/2018 17:35:48 devpinoyLogger Clicked on on sub menu testing tab
+07/07/2018 17:35:48 devpinoyLogger *************** Clicked on testing option of sub menu tab   **************
+07/07/2018 17:35:48 devpinoyLogger Clicked on on sub menu->testing->Unit Testing option
+07/07/2018 17:35:52 devpinoyLogger successfully read the value 
+07/07/2018 17:35:52 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:35:52 devpinoyLogger *************** Clicked on JAVA option of sub menu tab   **************
+07/07/2018 17:35:52 devpinoyLogger Clicked on on sub menu->JAVA->Adv JAVA option
+07/07/2018 17:35:55 devpinoyLogger successfully read the value 
+07/07/2018 17:35:55 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:35:55 devpinoyLogger *************** Clicked on JAVA option of sub menu tab   **************
+07/07/2018 17:35:55 devpinoyLogger Clicked on on sub menu->JAVA->Core JAVA option
+07/07/2018 17:35:58 devpinoyLogger successfully read the value 
+07/07/2018 17:35:58 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:35:58 devpinoyLogger *************** Clicked on JAVA option of sub menu tab   **************
+07/07/2018 17:35:59 devpinoyLogger Clicked on on sub menu->JAVA->Spring option
+07/07/2018 17:36:02 devpinoyLogger successfully read the value 
+07/07/2018 17:36:02 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:02 devpinoyLogger *************** Clicked on JAVA option of sub menu tab   **************
+07/07/2018 17:36:02 devpinoyLogger Clicked on on sub menu->JAVA->Hybernate option
+07/07/2018 17:36:05 devpinoyLogger successfully read the value 
+07/07/2018 17:36:05 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:05 devpinoyLogger *************** Clicked on DOT NET option of sub menu tab   **************
+07/07/2018 17:36:05 devpinoyLogger Clicked on on sub menu->DOT NET->C# option
+07/07/2018 17:36:08 devpinoyLogger successfully read the value 
+07/07/2018 17:36:08 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:08 devpinoyLogger *************** Clicked on DOT NET option of sub menu tab   **************
+07/07/2018 17:36:09 devpinoyLogger Clicked on on sub menu->DOT NET->ASP Dot Net option
+07/07/2018 17:36:12 devpinoyLogger successfully read the value 
+07/07/2018 17:36:12 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:12 devpinoyLogger *************** Clicked on DOT NET option of sub menu tab   **************
+07/07/2018 17:36:12 devpinoyLogger Clicked on on sub menu->DOT NET->ADO Dot Net option
+07/07/2018 17:36:15 devpinoyLogger successfully read the value 
+07/07/2018 17:36:15 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:15 devpinoyLogger *************** Clicked on DOT NET option of sub menu tab   **************
+07/07/2018 17:36:15 devpinoyLogger Clicked on on sub menu->DOT NET->MVC option
+07/07/2018 17:36:18 devpinoyLogger successfully read the value 
+07/07/2018 17:36:18 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:18 devpinoyLogger *************** Clicked on DATA BASE option of sub menu tab   **************
+07/07/2018 17:36:19 devpinoyLogger Clicked on on sub menu->DATA BASE->SQL option
+07/07/2018 17:36:22 devpinoyLogger successfully read the value 
+07/07/2018 17:36:22 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:22 devpinoyLogger *************** Clicked on DATA BASE option of sub menu tab   **************
+07/07/2018 17:36:22 devpinoyLogger Clicked on on sub menu->DATA BASE->MY SQL option
+07/07/2018 17:36:25 devpinoyLogger successfully read the value 
+07/07/2018 17:36:25 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:25 devpinoyLogger *************** Clicked on DATA BASE option of sub menu tab   **************
+07/07/2018 17:36:25 devpinoyLogger Clicked on on sub menu->JAVA->ORACLE option
+07/07/2018 17:36:28 devpinoyLogger successfully read the value 
+07/07/2018 17:36:28 devpinoyLogger Clicked on on sub menu JAVA tab
+07/07/2018 17:36:28 devpinoyLogger *************** Clicked on DATA BASE option of sub menu tab   **************
+07/07/2018 17:36:29 devpinoyLogger Clicked on on sub menu->DATA BASE->H2 option
+07/07/2018 17:36:32 devpinoyLogger successfully read the value 

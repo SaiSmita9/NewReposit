@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="154356" started-at="2018-07-07T12:03:57Z" finished-at="2018-07-07T12:06:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="154356" started-at="2018-07-07T12:03:57Z" finished-at="2018-07-07T12:06:32Z">
+      <class name="com.jala.testsuites.MoreTest">
+        <test-method status="PASS" signature="setupApplication()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="setupApplication" is-config="true" duration-ms="20863" started-at="2018-07-07T17:33:57Z" finished-at="2018-07-07T17:34:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session Started=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupApplication -->
+        <test-method status="PASS" signature="autoCompleteTab()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="autoCompleteTab" duration-ms="3016" started-at="2018-07-07T17:34:18Z" finished-at="2018-07-07T17:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoCompleteTab -->
+        <test-method status="PASS" signature="collapsibleContentTab()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="collapsibleContentTab" duration-ms="3003" started-at="2018-07-07T17:34:21Z" finished-at="2018-07-07T17:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collapsibleContentTab -->
+        <test-method status="PASS" signature="validloginAdmin()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="validloginAdmin" duration-ms="38455" started-at="2018-07-07T17:34:24Z" finished-at="2018-07-07T17:35:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session Started=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validloginAdmin -->
+        <test-method status="PASS" signature="moreOptions()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="moreOptions" duration-ms="4058" started-at="2018-07-07T17:35:03Z" finished-at="2018-07-07T17:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreOptions -->
+        <test-method status="PASS" signature="multipleTabs()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="multipleTabs" duration-ms="11398" started-at="2018-07-07T17:35:07Z" finished-at="2018-07-07T17:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleTabs -->
+        <test-method status="PASS" signature="menuTab()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="menuTab" duration-ms="73501" started-at="2018-07-07T17:35:18Z" finished-at="2018-07-07T17:36:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuTab -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.jala.testsuites.MoreTest@12108b5]" name="closeApplication" is-config="true" duration-ms="0" started-at="2018-07-07T17:36:32Z" finished-at="2018-07-07T17:36:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.jala.testsuites.MoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
